@@ -239,7 +239,7 @@ blink{animation: blink 1s infinite;}
 	2. HEADER TOPBAR
 =================================*/
 .top-bar {
-    background-color: #3c48cd;
+    background-color: #291670;
     border-bottom: 1px solid rgba(0, 0, 0, 0.08);
     color: #fff;
     padding: 8px 0;
@@ -287,7 +287,7 @@ blink{animation: blink 1s infinite;}
 .topbar-left ul li i{
 	margin-right:5px;
 	font-size: 22px;
-	color:rgb(251 245 3);
+	color:#e4df0f;
 }
 .topbar-left ul li:after,
 .topbar-right ul li:after{
@@ -540,7 +540,7 @@ blink{animation: blink 1s infinite;}
     -ms-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
-	border: 2px solid #4049cd;
+	border: 2px solid #291670;
 }
 .menu-links .nav > li > .sub-menu,
 .menu-links .nav > li > .mega-menu {
@@ -1796,7 +1796,7 @@ blink{animation: blink 1s infinite;}
     color: #020d26;
 }
 .page-banner h1.text-white{
-	color:#3c48cd;
+	color:#291670;
 }
 .breadcrumb-row ul li a{
 	color:var(--sc-primary);
@@ -3133,7 +3133,7 @@ footer p,
 footer strong,
 footer b,
 footer {
-    color: rgba(255,255,255,0.8);
+    color: rgb(35 18 101);
 }
 footer h1 a,
 footer h2 a,
@@ -3340,21 +3340,21 @@ footer .widget_services ul li:hover {
 }
 .footer-style2 .footer-bottom p{
 	font-size: 15px;
-    color: #383ec9;
+    color: #231265;
     font-weight: 500;
     line-height: 19px;
     text-align: center;
 }
 .footer-info-bx .ttr-tilte{
 	font-weight: 600;
-    color: #4049cd;
+    color: #291670;
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 8px;
 }
 .footer-info{
     /* margin-bottom: 20px;
-    border-bottom: 1px solid #4049cd; */
+    border-bottom: 1px solid #291670; */
     padding-bottom: 30px;
     margin-top: -35px;
 }
@@ -3366,7 +3366,7 @@ footer .widget_services ul li:hover {
 	font-size: 14px;
     line-height: 22px;
 	font-weight: 600;
-    color: #4049cd !important;
+    color: #291670 !important;
 }
 .link-inline{
 	margin:0;
@@ -4907,7 +4907,7 @@ footer.footer-white .btn {
 	background:var(--primary);
 }
 .apoint-btn-box{
-	background: #3a43c2;
+	background: #221263;
     color: #fff;
     text-transform: uppercase;
     font-weight: 500;
@@ -4925,7 +4925,7 @@ footer.footer-white .btn {
 .apoint-btn-box:before,
 .apoint-btn-box:after{
 	content: "";
-    background: #3a43c2;
+    background: #221263;
     position: absolute;
     height: 100%;
     width: 40%;
@@ -5644,7 +5644,7 @@ footer.footer-white .btn {
 .contact-icon-box .icon{
     width: 40px;
     height: 40px;
-    background:#3f46c7;
+    background:#231265;
     border-radius: 6px;
     color: #fff;
     font-size: 24px;
@@ -6042,18 +6042,18 @@ footer.footer-white .btn {
 	overflow:unset;
 }
 .feature-bx2 .ttr-tilte{
-	color:#3f46c8;
+	color:#231265;
 }
 .feature-bx2 .icon-content p{
 	margin-bottom: 0;
 	font-size: 18px;
-	color: #3f46c8;
+	color: #231265;
     font-weight: 600;
 }
 .feature-bx2 .feature-lg i {
     font-size: 80px;
 	line-height:80px;
-	color:#3f46c8;
+	color:#231265;
 }
 /* Feature Box 3 */
 .feature-bx3{
@@ -6136,7 +6136,7 @@ background-size: 100%;
 	position: absolute;
 	background: #ffff;
 	border-radius: 50px;
-	color: #3f46c8;
+	color: #231265;
 	font-size: 35px;
 	line-height: 60px;
 	bottom: -30px;
@@ -6192,7 +6192,7 @@ background-size: 100%;
 	height:100%;
 }
 .feature-bx2:hover .feature-btn{
-	color:#3f46c8;
+	color:#231265;
 }
 .about-video{
 	padding-top:0;
@@ -7121,7 +7121,7 @@ background-size: 100%;
 border-top: 1px solid rgba(0,0,0,0.15);	
 }
 body{
-	background-color:#3f46c8 !important;
+	background-color:#231265 !important;
 }
 .product-full-info .price,
 .item-widgets-body .price,
@@ -7795,7 +7795,7 @@ body{
 .portfolio-box.style-1 .portfolio-info{
 	background:#fff102;
 	padding: 6px 15px;
-    border-top: 2px solid #4049cd;
+    border-top: 2px solid #291670;
     text-align: center;
 }
 .portfolio-box.style-3 .portfolio-info .title,
@@ -8347,10 +8347,11 @@ body{
     -o-transition: all 0.6s;
     padding: 0 0 0px 0;
     position: relative;
-	border-right: 1px solid #3f46c8;
+	border-right: 1px solid #231265;
 }
 .process-box .title{
-	color: #3f46c8;
+	font-size: 18px;
+	color: #231265;
     font-weight: 700;
     padding: 12px 0;
     display: flex;
@@ -8368,7 +8369,7 @@ body{
     line-height: 1.5;
     margin-bottom: 0;
     font-size: 15px;
-	color:#3f46c8;
+	color:#231265;
 }
 
 .process-box .process-btn{
@@ -8385,9 +8386,9 @@ body{
     position: absolute;
     bottom: -50px;
     width: 100%;
-	color: #3f46c8;
+	color: #231265;
     font-weight: 800;
-	border-top: 1px solid #3f46c8;
+	border-top: 1px solid #231265;
 }
 .process-box .process-btn i{
 	width: 50px;
@@ -8396,7 +8397,7 @@ body{
     background: #fff;
     top: 0;
     right: 0;
-	border-left: 1px solid #3f46c8;
+	border-left: 1px solid #231265;
     color: #000;
     line-height: 50px;	
 }
@@ -9913,14 +9914,14 @@ body{
 }
 
 footer p a {
-    color: #4049cd;
+    color: #291670;
 	font-family: 600;
 }
 .title-text {
 	color:#fff ;
 }
 .aabb{
-	background: #383ec9;
+	background: #231265;
 	padding-top: 30px;
 }
 .footer a:hover{

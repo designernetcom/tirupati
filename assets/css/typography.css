@@ -3,7 +3,7 @@
 	Basic 
 ====================*/
 body {
-    background-color: #3f46c8;
+    background-color: #231265;
     font-family: 'CerebriSans';
     font-size: 16px;
     font-weight: 400;
@@ -550,7 +550,7 @@ dl dd { margin-bottom: 10px; }
     color: #fff;
 }
 .text-white h2 , .text-white h6{
-	color: #3e45c4;
+	color: #221263;
 }
 .mfp-title{
 	display:none;

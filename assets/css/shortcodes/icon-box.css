@@ -73,7 +73,7 @@
     width: auto;
 }
 .feature-box-xl img {
-    height: 80px;
+    height: 60px;
 }
 .feature-box-lg img {
     height: 55px;
@@ -216,7 +216,7 @@
 [class*="feature-box-"][class*="bg-"] a {
     color: #fff;
 }
-[class*="feature-box-"]. a {
+[class*="feature-box-"] a {
     color: inherit;
 }
 [class*="feature-box-"][class*="border-"] {

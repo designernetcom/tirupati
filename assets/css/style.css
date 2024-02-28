@@ -221,6 +221,9 @@
 	.div-class video {
 		height: 400px;
 	}
+	.tp-caption{
+		background-color:rgb(6 4 16 / 27%) !important;
+	}
 }
 
 .span-class-11 {
@@ -2435,6 +2438,9 @@ ol.comment-list li .children li {
     }
 	.modalnew {
 		margin-top: 12%;
+	}
+	.process-carousel .owl-stage-outer {
+		padding-top: 60px;
 	}
 }
 /*= comment form = */
@@ -8350,7 +8356,7 @@ body{
 	background:#fff003;
 }
 .process-carousel  .owl-stage-outer{
-	padding-top:50px;
+	padding-top:60px;
 }
 .process-box{
     background: #fff003;
@@ -9966,4 +9972,26 @@ footer p a {
 }
 .hades .tp-thumb {
     display: none;
+}
+.hades.tparrows {
+    cursor: pointer;
+    background: #000;
+    background: rgba(0,0,0,0.15);
+    width: 50px !important;
+    height: 50px !important;
+    position: absolute;
+    display: block;
+    z-index: 1000;
+}
+.hades.tparrows:before {
+    font-family: "revicons";
+    font-size: 30px;
+    color: #fff;
+    display: block;
+    line-height: 50px !important;
+    text-align: center;
+    transition: background 0.3s, color 0.3s;
+}
+.hades:hover .tp-arr-allwrapper {
+	display: none;
 }

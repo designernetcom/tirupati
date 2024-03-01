@@ -9998,3 +9998,30 @@ footer p a {
 .hades:hover .tp-arr-allwrapper {
 	display: none;
 }
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 15%;
+    color: #000;
+    text-align: center;
+    opacity: 1;
+	background: none;
+	border: none;
+}
+.carousel-control-next:focus, .carousel-control-next:hover, .carousel-control-prev:focus, .carousel-control-prev:hover {
+    color: #000;
+    text-decoration: none;
+    outline: 0;
+    /* opacity: 0.1; */
+}
+/* .carousel-control-next-icon, .carousel-control-prev-icon {
+background: #000 !important;
+color: #fff !important;
+} */

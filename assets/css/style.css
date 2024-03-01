@@ -224,6 +224,9 @@
 	.tp-caption{
 		background-color:rgb(6 4 16 / 27%) !important;
 	}
+	.tp-mask-wrap{
+		margin-top: 20px;
+	}
 }
 
 .span-class-11 {
@@ -3216,7 +3219,7 @@ footer#footer {
 }
 footer p {
     line-height: 32px;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 	color: #f8ea02;
 	font-weight: 600;
 }
